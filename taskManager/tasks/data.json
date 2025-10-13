@@ -1,0 +1,39 @@
+[
+ {
+  "ID": 1,
+  "Nombre": "nuevoNombre",
+  "Creado el": "13/10/2025 03:34 PM",
+  "Estado": 2,
+  "Actualizado el": "13/10/2025 03:35 PM",
+  "Descripción": ""
+ },
+ {
+  "ID": 2,
+  "Nombre": "segunda",
+  "Creado el": "13/10/2025 03:34 PM",
+  "Estado": 0,
+  "Descripción": "descripcion"
+ },
+ {
+  "ID": 3,
+  "Nombre": "nueva",
+  "Creado el": "13/10/2025 03:34 PM",
+  "Estado": 0,
+  "Descripción": ""
+ },
+ {
+  "ID": 5,
+  "Nombre": "prueba",
+  "Creado el": "13/10/2025 03:34 PM",
+  "Estado": 1,
+  "Actualizado el": "13/10/2025 03:35 PM",
+  "Descripción": "quinta"
+ },
+ {
+  "ID": 7,
+  "Nombre": "7",
+  "Creado el": "13/10/2025 03:47 PM",
+  "Estado": 0,
+  "Descripción": ""
+ }
+]
