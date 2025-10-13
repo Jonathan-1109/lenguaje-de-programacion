@@ -1,5 +1,3 @@
-Lenguaje de programación
+#### Jonathan Tellez
 
-### Jonathan Tellez
-
-### C.I: 32.323.265
+#### C.I: 32.323.265
