@@ -3,7 +3,7 @@ package test
 import (
 	"fmt"
 	"os"
-	data "taskManager/data"
+	"taskManager/data"
 	fun "taskManager/functions"
 	"testing"
 	"time"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 	"strings"
-	data "taskManager/data"
+	"taskManager/data"
 	colors "taskManager/utils"
 
 	"github.com/spf13/cobra"

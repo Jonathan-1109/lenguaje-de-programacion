@@ -2,7 +2,7 @@ package functions
 
 import (
 	"fmt"
-	data "taskManager/data"
+	"taskManager/data"
 	colors "taskManager/utils"
 
 	"github.com/spf13/cobra"
